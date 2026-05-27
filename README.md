@@ -1,4 +1,4 @@
-# Data Science Curriculum Portfolio - CodVeda Internship
+# Data Science Intern Project - CodVeda Internship
 
 Welcome to my complete Data Science portfolio repository, developed during my internship journey with **CodVeda Technology**. This repository showcases end-to-end data pipelines spanning fundamental data collection, intermediate predictive modeling, unsupervised machine learning, and advanced deep learning frameworks.
 
