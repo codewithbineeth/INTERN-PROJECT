@@ -70,10 +70,12 @@ Over the course of this curriculum, I successfully code-verified and delivered *
   python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
 
 3. **Execute individual script modules within their respective directories:**
-```bash
-# Example: Executing the Advanced Neural Network Task
-cd level3-advance/task3
-python task3_neural_network.py
+  ```bash
+  cd level3-advance/task3
+  python task3_neural_network.py
+
+
+---
 
 ## Performance Summaries & Data Visuals
 Every script module is designed with visual-reporting components. Running the tasks outputs analytical figures straight into your folders:
