@@ -65,5 +65,6 @@ Over the course of this curriculum, I successfully code-verified and delivered *
    git clone [https://github.com/codewithbineeth/INTERN-PROJECT.git](https://github.com/codewithbineeth/INTERN-PROJECT.git)
    cd INTERN-PROJECT
 
-  **Install all required analytics dependencies via pip:  
-    python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
+  **Install all required analytics dependencies via pip:**
+  ```bash
+  python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
