@@ -62,4 +62,8 @@ Over the course of this curriculum, I successfully code-verified and delivered *
 
 1. **Clone the repository workspace directly onto your computer:**
    ```bash
-   
+  git clone [https://github.com/codewithbineeth/INTERN-PROJECT.git](https://github.com/codewithbineeth/INTERN-PROJECT.git)
+  cd INTERN-PROJECT
+
+  **Install all required analytics dependencies via pip:  
+    python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
