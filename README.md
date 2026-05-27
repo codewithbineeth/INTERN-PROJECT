@@ -70,7 +70,7 @@ Over the course of this curriculum, I successfully code-verified and delivered *
   python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
 
 3. **Execute individual script modules within their respective directories:**
-  ```bash
+  
   cd level3-advance/task3
   python task3_neural_network.py
 
