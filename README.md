@@ -69,21 +69,3 @@ Over the course of this curriculum, I successfully code-verified and delivered *
   ```bash
   python -m pip install pandas numpy beautifulsoup4 requests scikit-learn statsmodels matplotlib seaborn nltk
 
-3. **Execute individual script modules within their respective directories:**
-  
-  cd level3-advance/task3
-  python task3_neural_network.py
-
-
----
-
-## Performance Summaries & Data Visuals
-Every script module is designed with visual-reporting components. Running the tasks outputs analytical figures straight into your folders:
-
-Exploratory Analytics Plots: Saves distribution tracking histograms and Iris flower cluster maps (iris_scatterplot.png).
-
-Machine Learning Diagnostic Outputs: Saves multi-model ROC validation arcs and regression model error bar charts.
-
-Advanced Convergence Graphics: Saves seasonal time-series trend breakdowns and neural network loss minimization tracking curves (neural_network_training_curves.png).
-
-Developed as a full programmatic milestone requirement during the CodVeda Technology Data Science Internship program.
